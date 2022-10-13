@@ -1,9 +1,10 @@
 ---
+layout: post
 title: "Rofl-monit"
-date: 2022-10-12T21:00:38+03:00
-draft: false
+date:   2022-10-12 12:16:02 +0300
+tags: portfolio typescript
 ---
 
 [**rofl-monit**](https://github.com/funduck/rofl-monit) -- monitoring for docker containers.
 Watch the demo!
-![](/images/rofl-monit-demo.gif)
+![](/assets/rofl-monit-demo.gif)

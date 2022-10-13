@@ -1,0 +1,1 @@
+jekyll build -s src -d site

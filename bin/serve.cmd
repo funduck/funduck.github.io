@@ -1,0 +1,1 @@
+jekyll serve -s src -d site --livereload
