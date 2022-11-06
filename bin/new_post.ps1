@@ -1,6 +1,6 @@
 param ($postname)
-$name = (get-date -format "yyyy-dd-MM")+"-"+$postname+".md"
-$date = (get-date -format "yyyy-dd-MM HH:mm:ss zzz")
+$name = (get-date -format "yyyy-MM-dd")+"-"+$postname+".md"
+$date = (get-date -format "yyyy-MM-dd HH:mm:ss zzz")
 $file = ".\docs\_posts\"+$name
 $content = @"
 ---

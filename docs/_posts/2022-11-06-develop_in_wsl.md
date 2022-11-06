@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Developing Linux app in WSL on Windows"
-date:   2022-06-11 17:46:40 +03:00
+date:   2022-11-06 17:46:40 +03:00
 tags: pain
 ---
 
