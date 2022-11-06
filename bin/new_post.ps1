@@ -1,6 +1,6 @@
 param ($postname)
 $name = (get-date -format "yyyy-dd-MM")+"-"+$postname+".md"
-$date = (get-date -format "yyyy-dd-MM hh:mi:ss")
+$date = (get-date -format "yyyy-dd-MM HH:mm:ss zzz")
 Write-Output @"
 ---
 layout: post
