@@ -157,3 +157,5 @@ Yes, IDE works slower, it takes time for all extensions to 'scan' a project, lin
 For now it works, of course it would be better to have more confidence that it is all about WSL2 slow I/O for Windows apps.
 
 Hope this text helped somebody :)
+
+UPD: [Just run VsCode in WSL and enjoy life again](./2022-11-12-develop_in_wsl_2.md)
