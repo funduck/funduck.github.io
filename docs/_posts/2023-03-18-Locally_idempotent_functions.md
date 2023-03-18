@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Locally_idempotent_functions"
+title: "Locally idempotent functions"
 date: 2023-03-18T09:12:40UTC
 tags: 
 ---
-# Locally idempotent functions
 Suppose a function may be called several times almost simultaneously and it should always return the same result.  
 Would you like to save computational time and execute that function only once whenever it is possible?  
 Sure!  
